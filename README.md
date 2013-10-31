@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# This is my README
+# Mips instructions to C 
 =======
 Project2
 ========
